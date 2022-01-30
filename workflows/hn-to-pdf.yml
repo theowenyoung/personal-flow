@@ -3,7 +3,7 @@ sources:
     args:
       # - https://actionsflow.github.io/test-page/hn-rss.xml
       - https://hnrss.org/best
-    limit: 1
+    limit: 10
 steps:
   - from: ./save-to-pdf.ts
     args:
@@ -18,4 +18,4 @@ steps:
           Content-Type: application/json 
           Authorization: Basic ${{btoa(ctx.env.MAILJET_TOKEN)}}
     run: if(!ctx.result.ok){throw new Error('send mail failed')}
-    sleep: 10
+    sleep: 30
