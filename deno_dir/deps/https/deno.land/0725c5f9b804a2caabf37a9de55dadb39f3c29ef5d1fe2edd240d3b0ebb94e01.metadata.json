@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "server": "deploy/us-central1-b",
+    "content-length": "0",
+    "location": "/x/denoflow@0.0.27/cli.ts",
+    "x-deno-warning": "Implicitly using latest version (0.0.27) for https://deno.land/x/denoflow/cli.ts",
+    "date": "Sun, 30 Jan 2022 17:20:29 GMT"
+  },
+  "url": "https://deno.land/x/denoflow/cli.ts",
+  "now": {
+    "secs_since_epoch": 1643563229,
+    "nanos_since_epoch": 166024839
+  }
+}

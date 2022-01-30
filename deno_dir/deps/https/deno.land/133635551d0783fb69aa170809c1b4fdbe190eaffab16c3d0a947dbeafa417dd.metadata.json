@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-version-id": "rVYdqcPsmEBMJGQ3cV.x9k2xy5A0fAKL",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "V2T4DMS6H3EQXV88",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Sat, 30 Jan 2021 16:23:34 GMT",
+    "date": "Sun, 30 Jan 2022 17:20:30 GMT",
+    "server": "deploy/us-central1-b",
+    "content-type": "application/typescript; charset=utf-8",
+    "content-length": "8464",
+    "etag": "\"2b358d0ac12f6cafb4d18780f475e23f\"",
+    "x-amz-id-2": "SkGjn+++08fu6hn3KOMTP2nqDx8cA323Gv/1HAbc2Zbd36mlBPnmO01PIubB60PYvk66mbACUL0="
+  },
+  "url": "https://deno.land/x/hackle@1.1.1/mod.ts",
+  "now": {
+    "secs_since_epoch": 1643563229,
+    "nanos_since_epoch": 703758284
+  }
+}

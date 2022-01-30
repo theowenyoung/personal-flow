@@ -1,0 +1,3 @@
+export { run } from "./core/run-workflows.ts";
+export * from "./core/interface.ts";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibW9kLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsibW9kLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQU8sRUFBRSxHQUFHLEVBQUUsTUFBTSx5QkFBeUIsQ0FBQztBQUM5QyxjQUFjLHFCQUFxQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgcnVuIH0gZnJvbSBcIi4vY29yZS9ydW4td29ya2Zsb3dzLnRzXCI7XG5leHBvcnQgKiBmcm9tIFwiLi9jb3JlL2ludGVyZmFjZS50c1wiO1xuIl19

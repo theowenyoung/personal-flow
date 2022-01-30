@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "etag": "W/\"47-fu5lDx9Tyq5MvmyGAQRqHBMyxGQ\"",
+    "fly-request-id": "01FT4CX3GWWPZ3JABXVX8H3NAB",
+    "vary": "Accept-Encoding",
+    "date": "Sun, 30 Jan 2022 17:20:29 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-content-type-options": "nosniff",
+    "server": "cloudflare",
+    "last-modified": "Sat, 26 Oct 1985 08:15:00 GMT",
+    "age": "590484",
+    "cache-control": "public, max-age=31536000",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "cf-cache-status": "HIT",
+    "content-type": "application/javascript; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "cf-ray": "6d5c5f082c112c44-ORD",
+    "via": "1.1 fly.io"
+  },
+  "url": "https://unpkg.com/cac@6.7.12/mod.js",
+  "now": {
+    "secs_since_epoch": 1643563229,
+    "nanos_since_epoch": 483415653
+  }
+}

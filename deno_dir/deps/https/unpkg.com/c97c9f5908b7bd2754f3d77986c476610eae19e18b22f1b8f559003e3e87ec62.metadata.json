@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "cf-cache-status": "EXPIRED",
+    "date": "Sun, 30 Jan 2022 17:20:29 GMT",
+    "location": "/cac@6.7.12/mod",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept, Accept-Encoding",
+    "server": "cloudflare",
+    "cache-control": "public, s-maxage=600, max-age=60",
+    "cf-ray": "6d5c5f077af32c44-ORD",
+    "via": "1.1 fly.io",
+    "content-type": "text/plain; charset=utf-8",
+    "fly-request-id": "01FTP018570CHMCEPTYYG1GDXT",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://unpkg.com/cac/mod",
+  "now": {
+    "secs_since_epoch": 1643563229,
+    "nanos_since_epoch": 425072062
+  }
+}
