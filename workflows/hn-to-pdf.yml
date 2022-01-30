@@ -1,8 +1,8 @@
 sources:
   - from: https://deno.land/x/denoflow@0.0.19/sources/rss.ts
     args:
-      - https://actionsflow.github.io/test-page/hn-rss.xml
-      # - https://hnrss.org/best
+      # - https://actionsflow.github.io/test-page/hn-rss.xml
+      - https://hnrss.org/best
     limit: 1
 steps:
   - from: ./save-to-pdf.ts
