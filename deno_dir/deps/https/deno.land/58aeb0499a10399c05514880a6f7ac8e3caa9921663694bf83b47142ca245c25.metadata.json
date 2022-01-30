@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-length": "403",
+    "date": "Sun, 30 Jan 2022 17:20:30 GMT",
+    "etag": "\"386a2469f95603b7f2afe95478c5debe\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "server": "deploy/us-central1-b",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "V2T4N9E46Y6MMRWF",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "/PadW2OtRO6I5oR5nz36qHZGgHmJgIJ5EfDAo2pVmz4XmCora0BBGccKJY5a6lbXr/OM3we1LZw="
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_stackDelete.js",
+  "now": {
+    "secs_since_epoch": 1643563229,
+    "nanos_since_epoch": 830469567
+  }
+}

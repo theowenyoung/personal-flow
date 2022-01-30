@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "cf-ray": "6d5c5f088cd32c44-ORD",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "cache-control": "public, max-age=31536000",
+    "via": "1.1 fly.io",
+    "cf-cache-status": "HIT",
+    "age": "311664",
+    "server": "cloudflare",
+    "last-modified": "Sat, 26 Oct 1985 08:15:00 GMT",
+    "etag": "W/\"5d9-NNCpOn7UDZIxKZFxhEa7TmNWlzQ\"",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "fly-request-id": "01FTCPT0WY9D1QVFVYZ7B9WRVD",
+    "date": "Sun, 30 Jan 2022 17:20:29 GMT"
+  },
+  "url": "https://unpkg.com/cac@6.7.12/deno/Option.ts",
+  "now": {
+    "secs_since_epoch": 1643563229,
+    "nanos_since_epoch": 552520853
+  }
+}
