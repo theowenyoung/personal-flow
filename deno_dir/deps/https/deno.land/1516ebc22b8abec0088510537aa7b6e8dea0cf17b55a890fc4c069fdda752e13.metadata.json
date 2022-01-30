@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-length": "1158",
+    "etag": "\"954a4db4af0d82fde3c7166157a53f38\"",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "x-amz-request-id": "N4G951VTJ55V25DA",
+    "x-amz-version-id": "YXOeZk_HE16EeQst8NQZD4CchirK3aTg",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "xzaeARmZIkfJjnyuDwsvmSCFXIikMgHn1IMWGRPIZRMt2h+Yq/b5EQgcDo4tHM7ze6Oo7AKq3dE=",
+    "access-control-allow-origin": "*",
+    "content-type": "application/javascript",
+    "server": "deploy/asia-northeast2-c",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/EmulationManager.js",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 910181000
+  }
+}

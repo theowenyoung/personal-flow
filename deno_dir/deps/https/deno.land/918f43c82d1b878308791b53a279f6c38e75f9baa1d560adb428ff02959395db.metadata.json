@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "server": "deploy/asia-northeast2-c",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"0cadf8cfcbc9bc673c8990ab09ffbf3b\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "VV8F9DJQQSZCQSC6",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "date": "Sun, 30 Jan 2022 17:01:26 GMT",
+    "content-length": "133",
+    "x-amz-id-2": "U7mpmAGvd3dF/DJOt09EVMYvybKROBxn71Nv4Qr3vX+aBO7hQ83OHM85i+br/AaE/UoZkV5IMPY=",
+    "x-amz-version-id": "OaqUEZin30k0ysTeb9j4NQlW7uVt_EaF",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/mod.ts",
+  "now": {
+    "secs_since_epoch": 1643562085,
+    "nanos_since_epoch": 441362000
+  }
+}

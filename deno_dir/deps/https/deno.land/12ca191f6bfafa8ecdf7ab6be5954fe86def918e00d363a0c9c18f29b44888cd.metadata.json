@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "x-amz-id-2": "1rkgEJRhl87OZH/Kheq8MJezVBJGx20dJoluquYTdqtXbrFUrLs0Bb0TrWaqMJ0HA/J6iOsA8fw=",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"938b30dcdc06ef655f1868c23a97a6d0\"",
+    "server": "deploy/asia-northeast2-c",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "x-amz-request-id": "N4G3PX1EMQCW0HC2",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "Hn8bDdLnZ0xDr7513kq1SNca5xvnoQGG",
+    "content-type": "application/javascript",
+    "content-length": "3303"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/EventEmitter.js",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 342319000
+  }
+}

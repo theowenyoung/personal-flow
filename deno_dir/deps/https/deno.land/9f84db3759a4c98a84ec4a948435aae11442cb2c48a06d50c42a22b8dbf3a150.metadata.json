@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-version-id": "mI6vsfnz358DfPt.9XDQz3YNU1_.HeZh",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "etag": "\"540eac0da2818a773904565122f55e8f\"",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "access-control-allow-origin": "*",
+    "server": "deploy/asia-northeast2-c",
+    "x-amz-id-2": "MUlxLt87P6CW1ocnTwbCJts+cfDu3adBgkoU7Zzaw3jlCdGMAMYb2+2osIXyFIcfYQaIqwuJiRw=",
+    "content-length": "752",
+    "x-amz-request-id": "N4G0R2KPHSQV163B"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/AriaQueryHandler.d.ts",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 911637000
+  }
+}

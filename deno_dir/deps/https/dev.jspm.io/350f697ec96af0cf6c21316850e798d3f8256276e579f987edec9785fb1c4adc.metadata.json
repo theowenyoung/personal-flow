@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding",
+    "server": "cloudflare",
+    "cf-cache-status": "HIT",
+    "age": "628",
+    "cf-ray": "6d5c432c7fcd0a96-KIX",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Wh4TuB2i9tJBjTBxpR9L90JdLO5kyUJzpWG%2Fudm6R8NzZhq%2F7919fFH0%2FLFs2KAV%2F5jfOlN%2BZ1NGM%2Fc7y3LGoN27TGTxa4nw2qtv1kOl1u6oLvzeNuyzksW%2BoPQpWQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Sun, 30 Jan 2022 17:01:28 GMT",
+    "cache-control": "max-age=31536000, public, immutable",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://dev.jspm.io/npm:pako@1.0.11/lib/zlib/inffast.dew.js",
+  "now": {
+    "secs_since_epoch": 1643562088,
+    "nanos_since_epoch": 463919000
+  }
+}

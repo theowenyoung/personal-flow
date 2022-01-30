@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-request-id": "N4G2W83M3VW0HSKV",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"374ca29cfce7edbfffc37f836cec4db8\"",
+    "content-length": "729",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "Zdip6FmpIkdw4gWaa7vbmPqwmVzWYB4.",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "server": "deploy/asia-northeast2-c",
+    "x-amz-id-2": "6iUz4TbQ78BST/9IK3Od+ee3idBNfiPdG4a/Tl1X8fpWo7wOxjk8ycXa/+36lMHty9YScIyXCUk="
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/ConnectionTransport.js",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 678290000
+  }
+}

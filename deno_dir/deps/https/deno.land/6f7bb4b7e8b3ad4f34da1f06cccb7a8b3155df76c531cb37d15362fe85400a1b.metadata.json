@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-length": "141924",
+    "x-amz-version-id": "1vCjuvJwziaQyqdFBziTwMfo0pUkT8Pb",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "last-modified": "Wed, 29 Sep 2021 16:18:58 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-id-2": "Q+Ye6JqL4cBbeF6QbNqVc9qPTiLWQkgh0wDFccE9z3lt5dMk6pxrBu+SwG3C9BrsNatdBOWbnZY=",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"f8536fb56574b7f2f1c5b4ef938c6de9\"",
+    "server": "deploy/asia-northeast2-c",
+    "x-amz-request-id": "N4G4H0S5ZYAG29J5"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/vendor/devtools-protocol/types/protocol-mapping.d.ts",
+  "now": {
+    "secs_since_epoch": 1643562087,
+    "nanos_since_epoch": 324957000
+  }
+}

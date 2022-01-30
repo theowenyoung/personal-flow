@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Wed, 29 Sep 2021 16:18:58 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "977",
+    "x-amz-id-2": "8LZFZD0+l2LGUFxptH82a2x+abfCR8UxZV//MhqBhOy/zoQ7LQYljlB8NBPS7ZBVEN4cHG/SQrA=",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "x-amz-version-id": "EY3Ya_mWEY6XkkMRgs7_Ab.iFMO50uzJ",
+    "server": "deploy/asia-northeast2-c",
+    "etag": "\"d54972046ccaefe509dde3d9033c8c3d\"",
+    "x-amz-request-id": "N4G0EVZ0A05DK2EV",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/vendor/mitt/src/index.d.ts",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 913666000
+  }
+}

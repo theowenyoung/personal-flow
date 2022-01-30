@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "date": "Sun, 30 Jan 2022 17:01:25 GMT",
+    "x-amz-request-id": "M0SAEG1P8A2N37PW",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "366dqPlX2EWVry8NAaVADvLlFrE7NUTM",
+    "etag": "\"3c483e8fb47bf608874b6af5dceb9330\"",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-id-2": "ifPHQbjt8M42zKKLbURAoWLDypNiVzPqWJTD1+3iXad+aywDk2DT/rLsbtwTMl4rIiDsWri/LjU=",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "content-length": "1722",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "deploy/asia-northeast2-c"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/install.ts",
+  "now": {
+    "secs_since_epoch": 1643562085,
+    "nanos_since_epoch": 94705000
+  }
+}

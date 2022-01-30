@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-id-2": "Q2E1Pb8PW4CSVL0ULxnbs4qg6TlFBrFQ16mpw2xaIYEgob4V+Ej8cbIErG6RpDiid0MDc42iLN8=",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "content-type": "application/javascript",
+    "x-amz-request-id": "N4GFD1A7034KCS2X",
+    "etag": "\"dd85c4edcdc18d856e31e57235ca0118\"",
+    "content-length": "6056",
+    "x-amz-version-id": "TVL5lsSG0zoHf6r.yF50FskJffZBxKyW",
+    "access-control-allow-origin": "*",
+    "server": "deploy/asia-northeast2-c"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 340353000
+  }
+}

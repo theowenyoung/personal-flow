@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"20758c27f56e5446722ab62057550445\"",
+    "server": "deploy/asia-northeast2-c",
+    "x-amz-request-id": "N4GCJKFSAADMBHEH",
+    "x-amz-version-id": "VzSLJqsubuAzwIfsOiGbsSJFEtMrollu",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-id-2": "O/KrA7qtdbazF2NOAqARFe61T7GiipgolQecrLGoV39yK37LLaUmg/kQQqaxCyzzOh30y9XY2Q4=",
+    "last-modified": "Wed, 29 Sep 2021 16:18:58 GMT",
+    "content-length": "1174"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/Tracing.d.ts",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 575134000
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-length": "1080",
+    "content-type": "application/typescript; charset=utf-8",
+    "server": "deploy/asia-northeast2-c",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "w1sZXvaXqH5EJY9Td6xBTmRL0ez.CE5V",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "x-amz-request-id": "N4G5JE5S5HG7FST4",
+    "x-amz-id-2": "f7aGWE6Rrmsntl5CPjJmeVq2SBb3jrNo2iIMWtEmeaso9Rm84gz16MXBxh+8wOcOaICaR7V9CCk=",
+    "etag": "\"5633ceb57d40fe73530c1197619fcdf4\""
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/src/deno/LaunchOptions.ts",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 512817000
+  }
+}

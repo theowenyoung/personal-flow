@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-version-id": "3U6yW6.xj2NtvvrOWaHdTWwLRtvDNYjM",
+    "x-amz-request-id": "N4G6ZP1NGS4EYT28",
+    "etag": "\"e0cbd2f1eca304798b872d4662784ee6\"",
+    "x-amz-id-2": "/ZEhV0bpF4s9uU+I47j/x5JyuPJ3eOoCQNLXvg4hr2uzD3PzVa+WwaYGt16H/ro3N9FSMoIVsRw=",
+    "content-length": "3084",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "last-modified": "Wed, 29 Sep 2021 16:18:58 GMT",
+    "access-control-allow-origin": "*",
+    "server": "deploy/asia-northeast2-c",
+    "content-type": "application/javascript"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/Tracing.js",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 286403000
+  }
+}

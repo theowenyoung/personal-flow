@@ -1,0 +1,20 @@
+sources:
+  - from: https://deno.land/x/denoflow@0.0.19/sources/rss.ts
+    args:
+      - https://actionsflow.github.io/test-page/hn-rss.xml
+      # - https://hnrss.org/best
+    limit: 1
+steps:
+  - from: ./save-to-pdf.ts
+    args:
+      - ${{ctx.item}}
+      - ${{ctx}}
+  - use: fetch
+    args:
+      - https://api.mailjet.com/v3.1/send
+      - method: POST
+        body: ${{JSON.stringify(ctx.result)}}
+        headers:
+          Content-Type: application/json 
+          Authorization: Basic ${{btoa(ctx.env.MAILJET_TOKEN)}}
+    run: if(!ctx.result.ok){throw new Error('send mail failed')}

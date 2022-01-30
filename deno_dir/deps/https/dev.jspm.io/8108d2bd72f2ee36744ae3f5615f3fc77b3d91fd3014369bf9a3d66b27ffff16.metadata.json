@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "date": "Sun, 30 Jan 2022 17:01:28 GMT",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cf-cache-status": "EXPIRED",
+    "cache-control": "max-age=200, public",
+    "content-type": "application/javascript",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "last-modified": "Sun, 30 Jan 2022 16:56:00 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7qpZq%2BZbXAlJOWNfz%2FhevFDxqbzQA6S7Bsg0jwVAIl0DuSbAIog4omZMsjxOlrCgsTZb2GekxMpy51vjwjDvgWGAxi1t%2FRadhPC11BHnwKvSAB%2Fpn0tyo4F7Z1CJMw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "6d5c4329ca030a96-KIX",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/stream.js",
+  "now": {
+    "secs_since_epoch": 1643562088,
+    "nanos_since_epoch": 275197000
+  }
+}

@@ -1,0 +1,47 @@
+name: Denoflow
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  # schedule:
+  #   - cron: "*/15 * * * *"
+jobs:
+  denoflow:
+    runs-on: ubuntu-latest
+    concurrency: denoflow
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - run: make install
+      - run: make github
+        env:
+          FROM_EMAIL: ${{secrets.FROM_EMAIL}}
+          TO_EMAIL: ${{secrets.TO_EMAIL}}
+          MAILJET_TOKEN: ${{secrets.MAILJET_TOKEN}}
+      - name: chown
+        run: sudo chown -R $USER:$USER ./
+      - name: git config
+        run: git config --global user.name "github-actions[bot]" && git config --global user.email github-actions-bot@users.noreply.github.com
+      - run: git status
+      - name: git add
+        run: git add data && git add deno_dir
+      - id: isChanged
+        run: git diff-index --cached --quiet HEAD || echo '::set-output name=changed::true'
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        if: ${{ steps.isChanged.outputs.changed == 'true' }}
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          labels: automerge
+          add-paths: data,deno_dir
+          commit-message: "chore: new item"
+          committer: "github-actions[bot] <github-actions-bot@users.noreply.github.com>"
+          author: "github-actions[bot] <github-actions-bot@users.noreply.github.com>"
+          branch: new-item
+          delete-branch: true
+          title: New item update

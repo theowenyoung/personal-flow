@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ovSifI9NsWuf0OK4Ud5Lc3N2ZXXODwuWWFKkOkwm%2BEk%2BS7qOw5DD7Ocb%2B3GmQp%2BdmVvDDObyxzt80Jh%2BPalVR2mEoR8yPMMKBnQXt6iQy7W7gEE%2FvzkCN81O7I0D3w%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Accept-Encoding",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "HIT",
+    "content-type": "application/javascript",
+    "age": "628",
+    "cf-ray": "6d5c4329ca3e0a96-KIX",
+    "cache-control": "max-age=31536000, public, immutable"
+  },
+  "url": "https://dev.jspm.io/npm:jszip@3.5.0/lib/stream/DataWorker.dew.js",
+  "now": {
+    "secs_since_epoch": 1643562087,
+    "nanos_since_epoch": 995903000
+  }
+}

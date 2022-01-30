@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-version-id": "FbnaoIseqBsNwMVVXH4oPicuTDsvPM83",
+    "server": "deploy/asia-northeast2-c",
+    "access-control-allow-origin": "*",
+    "content-length": "931",
+    "x-amz-request-id": "N4GC26X0GB7KWMWX",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "content-type": "application/javascript",
+    "etag": "\"65db44d8429b82cb129b8b636c7ad62d\"",
+    "x-amz-id-2": "JlbpUx42bjcKMKlPtburR96DBsEQKQgu29utSNPCNlRHRxA0ndO9TCvh/PVw45gNxyqUDd6KoEA=",
+    "last-modified": "Wed, 29 Sep 2021 16:18:58 GMT"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/assert.js",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 405905000
+  }
+}

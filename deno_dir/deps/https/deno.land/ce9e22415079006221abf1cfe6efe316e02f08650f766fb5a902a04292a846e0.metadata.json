@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-version-id": "a6bJpRx8OLCkNs79ij9cCSTz8wvtayfV",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT",
+    "content-length": "5692",
+    "etag": "\"8e28614de446b855c42a949d53854286\"",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "x-amz-id-2": "8RMJi/cWP8067jyvHEmvy3r+vpLM6ZX3JVsNwStY157Q0GlgSDKfDJBfr2fNzfOVeSTrPRM0p6g=",
+    "server": "deploy/asia-northeast2-c",
+    "x-amz-request-id": "N4GAAM7MTQGX3M2A",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/Coverage.d.ts",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 652231000
+  }
+}

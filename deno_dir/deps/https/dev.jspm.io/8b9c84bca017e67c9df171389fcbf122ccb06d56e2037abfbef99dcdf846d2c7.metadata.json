@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "cf-ray": "6d5c432c7fd10a96-KIX",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-cache-status": "HIT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=6PqwuHMFJNqoQoKtfMOgOj6NBGd%2BaeL3q6IZGMRMd5aFEPM8xaf0LMqKxIr2xxX8qiURL0obRcdJ8%2BxpYl%2B1C8yY2%2B2VEpxWMrwQxca%2B6A5Lz%2ByV211VXoslwLboIw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "max-age=31536000, public, immutable",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "date": "Sun, 30 Jan 2022 17:01:28 GMT",
+    "content-type": "application/javascript",
+    "age": "628",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://dev.jspm.io/npm:pako@1.0.11/lib/zlib/inftrees.dew.js",
+  "now": {
+    "secs_since_epoch": 1643562088,
+    "nanos_since_epoch": 438641000
+  }
+}

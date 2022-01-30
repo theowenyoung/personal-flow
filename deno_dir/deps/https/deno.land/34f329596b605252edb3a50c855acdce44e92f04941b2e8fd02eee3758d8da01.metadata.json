@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Sun, 30 Jan 2022 17:01:28 GMT",
+    "x-amz-request-id": "S4C29K84D86DRA1K",
+    "etag": "\"3b524290a137b3e05f59568ec58d280d\"",
+    "x-amz-id-2": "hPmVpZZBzD9V6sY2fRgNr77kQgSJd+OaNibAzYmoqWeZBzTno/U6fzwMceF0pvN7EwXX/lbw6gk=",
+    "server": "deploy/asia-northeast2-c",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "21932",
+    "last-modified": "Tue, 13 Apr 2021 18:10:49 GMT",
+    "x-amz-version-id": "jT.8frVD_OoaNYHQRSrTLiJVe0_ECHzP"
+  },
+  "url": "https://deno.land/std@0.93.0/io/bufio.ts",
+  "now": {
+    "secs_since_epoch": 1643562087,
+    "nanos_since_epoch": 478506000
+  }
+}

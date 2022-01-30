@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "vary": "Accept-Encoding",
+    "cache-control": "max-age=31536000, public, immutable",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=EMuFevQ0nZRZIfj5Jq2xvPz8M0milEJOn3UafznBmGkkmO5NFGgmkJzY%2Fvrbvwbf0h01MG%2Bchd3u76I3PPmUGnhyI4JVhWepwkNu6upK27g2ltoPhXbsS5LEqKt5uA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "cf-cache-status": "HIT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-ray": "6d5c432c4f700a96-KIX",
+    "date": "Sun, 30 Jan 2022 17:01:28 GMT",
+    "age": "628"
+  },
+  "url": "https://dev.jspm.io/npm:@jspm/core@1.1.1/nodelibs/chunk-0c2d1322.js",
+  "now": {
+    "secs_since_epoch": 1643562088,
+    "nanos_since_epoch": 382115000
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-request-id": "N4GCMM06HGM5PT89",
+    "access-control-allow-origin": "*",
+    "etag": "\"ebf172ddd919c17e059ef0b2b385216f\"",
+    "x-amz-version-id": "2rTIWXIRFtlKy.920OfN2eRA3nUya8xY",
+    "x-amz-id-2": "MIh9Gi4h0NuqlI98ZdDvyIM5s2M+7bGCqfobBKqf0OQ45wlislQoel+rfrjG3Fa5ZiX/ffBN7qI=",
+    "last-modified": "Wed, 29 Sep 2021 16:18:57 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "3828",
+    "server": "deploy/asia-northeast2-c",
+    "date": "Sun, 30 Jan 2022 17:01:27 GMT"
+  },
+  "url": "https://deno.land/x/puppeteer@9.0.2/vendor/puppeteer-core/puppeteer/common/NetworkManager.d.ts",
+  "now": {
+    "secs_since_epoch": 1643562086,
+    "nanos_since_epoch": 672266000
+  }
+}
