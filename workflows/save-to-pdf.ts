@@ -34,7 +34,7 @@ export default async function (item:Record<string,Record<string,string>[]>,ctx:P
     // await page.setViewport({ width: 1370, height: 1200 });
     await page.goto(url, { waitUntil: "domcontentloaded" });
 
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(4000);
     // await page.screenshot({ path: "example.png" });
 
     return page;
@@ -44,9 +44,18 @@ export default async function (item:Record<string,Record<string,string>[]>,ctx:P
   let b64encoded  = "";
   if(page){
 
+   await autoScroll(page);
+
+   await removeAllLinks(page);
+   let scale = 1.6;
+
+   if(link.startsWith("https://news.ycombinator.com")){
+     scale = 2.0;
+   }
+
     // save 
     // path: './changed/test.pdf'
-   const result =  await page.pdf({scale:1.6, format: 'a4',omitBackground:true });
+   const result =  await page.pdf({scale:scale, format: 'a4',omitBackground:true });
    
     // get base64
     // const decoder = new TextDecoder('utf-8');
@@ -99,4 +108,48 @@ export default async function (item:Record<string,Record<string,string>[]>,ctx:P
   }
 
 }
+async function removeAllLinks(page:Page){
+  await page.evaluate(async () => {
+    await new Promise((resolve) => {
+  // @ts-ignore: scrollTo is not a function
+  const all_links = document.body.getElementsByTagName("a");
 
+  for(let i=0; i<all_links.length; i++){
+      all_links[i].removeAttribute("href");
+  }
+  resolve(true);
+    });
+});
+
+
+}
+async function autoScroll(page:Page){
+  await page.evaluate(async () => {
+      await new Promise((resolve) => {
+          let totalHeight = 0;
+          const distance = 100;
+          const timeout = 8000;
+          const now = Date.now();
+          const timer = setInterval(() => {
+             // @ts-ignore: Property 'scrollBy' does not exist on type 'Window'
+              const scrollHeight = document.body.scrollHeight;
+              // @ts-ignore: scrollTo is not a function
+              window.scrollBy(0, distance);
+              totalHeight += distance;
+
+              const newNow = Date.now();
+
+              if(newNow-now > timeout){
+                clearInterval(timer);
+                resolve(true);
+                return;
+              }
+
+              if(totalHeight >= scrollHeight){
+                  clearInterval(timer);
+                  resolve(true);
+              }
+          }, 100);
+      });
+  });
+}

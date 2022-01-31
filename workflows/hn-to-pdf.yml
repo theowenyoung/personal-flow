@@ -18,4 +18,3 @@ steps:
           Content-Type: application/json 
           Authorization: Basic ${{btoa(ctx.env.MAILJET_TOKEN)}}
     run: if(!ctx.result.ok){throw new Error('send mail failed')}
-    sleep: 30
