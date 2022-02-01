@@ -12,7 +12,7 @@ export default async function (item:Record<string,Record<string,string>[]>,ctx:P
     browser = await puppeteer.launch({
       devtools: false,
       // headless: !isDev,
-      defaultViewport: { width: 1370, height: 1200 },
+      defaultViewport: { width: 768, height: 1024 },
       args: ["--lang=zh-Hans,zh", "--disable-gpu"],
     });
     browser.on("disconnected", () => (browser = null));
