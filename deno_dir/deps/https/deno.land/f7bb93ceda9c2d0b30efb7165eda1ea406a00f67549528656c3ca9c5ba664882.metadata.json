@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "server": "deploy/asia-northeast2-c",
+    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-origin": "*",
+    "date": "Fri, 04 Feb 2022 18:11:01 GMT",
+    "last-modified": "Fri, 04 Feb 2022 18:06:02 GMT",
+    "x-amz-id-2": "dHNxuyWeU6kmTl9eS4yyMnmGz80eLDkd0FpiToRaAph1lvLPJXagIYpyxIO1VLEFbIY/v8QcFms=",
+    "etag": "\"a1e5681b31d430ad696a03609d98c602\"",
+    "x-amz-request-id": "5ZVCX38QXAHH6V3V",
+    "content-length": "2406",
+    "x-amz-version-id": "6bDMLbRQHnkWkkUdSkiNuopAPC7ib8sn"
+  },
+  "url": "https://deno.land/x/denoflow@0.0.28/core/adapters/json-store-adapter.ts",
+  "now": {
+    "secs_since_epoch": 1643998260,
+    "nanos_since_epoch": 466715000
+  }
+}

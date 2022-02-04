@@ -1,20 +1,20 @@
 {
   "headers": {
-    "x-amz-id-2": "fP7iCYNQUaa21ecsLwo00VSwOhP/6FIPNrT9neBsOnOio3W2a8vsiZn5VtFfdZgrSHvMVgJm6XY=",
-    "content-length": "21861",
+    "server": "deploy/asia-northeast2-c",
+    "x-amz-id-2": "PDTAsvRaaIVgmkP7NWHvluqkqdrG5ux278mAN9kJDVoTvL/EeMNhuXa0wjDWfNiNuqWKbvaj7bM=",
     "etag": "\"34cc0721ed4dac96bc92c85a5b739059\"",
-    "content-type": "application/typescript; charset=utf-8",
-    "cache-control": "public, max-age=31536000, immutable",
-    "x-amz-request-id": "V2T9Z6RKR35BDANK",
     "x-amz-version-id": "bPB2tY_JNZ6XbtjZOEfTti9Ta6GZsM9a",
     "access-control-allow-origin": "*",
-    "date": "Sun, 30 Jan 2022 17:20:30 GMT",
+    "content-length": "21861",
+    "date": "Fri, 04 Feb 2022 18:11:01 GMT",
     "last-modified": "Wed, 05 Jan 2022 16:51:19 GMT",
-    "server": "deploy/us-central1-b"
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "5ZVBQX25G68951DG",
+    "content-type": "application/typescript; charset=utf-8"
   },
   "url": "https://deno.land/std@0.120.0/testing/asserts.ts",
   "now": {
-    "secs_since_epoch": 1643563229,
-    "nanos_since_epoch": 389056998
+    "secs_since_epoch": 1643998260,
+    "nanos_since_epoch": 778839000
   }
 }

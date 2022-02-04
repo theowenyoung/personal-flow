@@ -1,20 +1,20 @@
 {
   "headers": {
-    "x-amz-version-id": "JZmXcEqRcI1X7yLUmH0FbKhvnZUXT5BV",
-    "cache-control": "public, max-age=31536000, immutable",
-    "content-type": "application/javascript",
-    "date": "Sun, 30 Jan 2022 17:20:30 GMT",
-    "server": "deploy/us-central1-b",
-    "access-control-allow-origin": "*",
     "etag": "\"2c002a360bb6433b994969db33f69211\"",
-    "x-amz-request-id": "V2TFNPANG3VDYSRJ",
+    "content-type": "application/javascript",
+    "x-amz-id-2": "XTuBEFF3s97SMtMy0SmDDk1dz/zSkpXQa9LgC63Q8ssTAHSCHD3F4zm/I4JtrPEMbrdBhRlSu9w=",
+    "x-amz-request-id": "G2JWJWSSBCTD163S",
+    "last-modified": "Thu, 19 Nov 2020 11:26:32 GMT",
     "content-length": "2989",
-    "x-amz-id-2": "Y5iAcfRijjPDXqKCr3Ej/Wwr+1tEA5EtLQzeVfzOtQ27rKxEwxyvNeRtL6U1i/5VleBVSa+18o4=",
-    "last-modified": "Thu, 19 Nov 2020 11:26:32 GMT"
+    "x-amz-version-id": "JZmXcEqRcI1X7yLUmH0FbKhvnZUXT5BV",
+    "server": "deploy/asia-northeast2-c",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Fri, 04 Feb 2022 18:11:03 GMT",
+    "access-control-allow-origin": "*"
   },
   "url": "https://deno.land/x/sqlite@v2.3.2/build/vfs.js",
   "now": {
-    "secs_since_epoch": 1643563230,
-    "nanos_since_epoch": 22717514
+    "secs_since_epoch": 1643998262,
+    "nanos_since_epoch": 960508000
   }
 }

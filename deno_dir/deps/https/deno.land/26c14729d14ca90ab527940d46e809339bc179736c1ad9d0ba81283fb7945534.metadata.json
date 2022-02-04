@@ -1,20 +1,20 @@
 {
   "headers": {
-    "date": "Sun, 30 Jan 2022 17:20:30 GMT",
-    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
-    "x-amz-request-id": "V2TAHA4PD339B5WR",
     "content-length": "447",
+    "server": "deploy/asia-northeast2-c",
     "cache-control": "public, max-age=31536000, immutable",
-    "x-amz-version-id": "null",
-    "etag": "\"732ce29ef604da743ce41ee977680c02\"",
-    "x-amz-id-2": "++HPlNVtsrsUJj0I+phLgXgMA71RaZPalMcJ9gMENa3WI3QSCmvcszxww9oQue7UoU+UVrNs8t8=",
+    "content-type": "application/javascript",
     "access-control-allow-origin": "*",
-    "server": "deploy/us-central1-b",
-    "content-type": "application/javascript"
+    "date": "Fri, 04 Feb 2022 18:11:03 GMT",
+    "etag": "\"732ce29ef604da743ce41ee977680c02\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "x-amz-version-id": "null",
+    "x-amz-id-2": "6aY1yA6+js7yA/oiuIjs3mwhD4UqTNBVhjgPrvWnPCt2YFEGahWcmgh0QGY1R1Kl4tCspDT3BOY=",
+    "x-amz-request-id": "G2JR5KSR9QHFV4CE"
   },
   "url": "https://deno.land/x/lodash@4.17.15-es/_cloneArrayBuffer.js",
   "now": {
-    "secs_since_epoch": 1643563229,
-    "nanos_since_epoch": 910193575
+    "secs_since_epoch": 1643998262,
+    "nanos_since_epoch": 676699000
   }
 }

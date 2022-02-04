@@ -1,20 +1,20 @@
 {
   "headers": {
-    "date": "Sun, 30 Jan 2022 17:20:30 GMT",
-    "server": "deploy/us-central1-b",
     "content-type": "application/javascript",
-    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "G2JPYSEXH0TAXF2Z",
     "content-length": "116",
-    "etag": "\"d14cd55534cc97d2f6a9ac4646f99f96\"",
-    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
-    "x-amz-id-2": "eI3Zct+jaAOUsg2jpUVuSFfK33YxrCybvjuP8QGz20TiB3jRBX0qTNltbcfin9QwOiUnG0MCaDI=",
-    "x-amz-request-id": "V2T7KWTECFSZWFSE",
+    "x-amz-id-2": "853ms3JKOCFmgH+yZdylJfw0tH18bOQ23ZVN7e1+0/N3sGA0eUnVdredv25QJM9jkzorQl/WbZs=",
+    "server": "deploy/asia-northeast2-c",
     "x-amz-version-id": "null",
-    "access-control-allow-origin": "*"
+    "etag": "\"d14cd55534cc97d2f6a9ac4646f99f96\"",
+    "date": "Fri, 04 Feb 2022 18:11:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "cache-control": "public, max-age=31536000, immutable"
   },
   "url": "https://deno.land/x/lodash@4.17.15-es/_Symbol.js",
   "now": {
-    "secs_since_epoch": 1643563230,
-    "nanos_since_epoch": 4242227
+    "secs_since_epoch": 1643998262,
+    "nanos_since_epoch": 968339000
   }
 }
