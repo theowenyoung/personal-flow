@@ -19,6 +19,7 @@ jobs:
           deno-version: v1.x
       - run: make install
       - run: make github
+        continue-on-error: true
         env:
           FROM_EMAIL: ${{secrets.FROM_EMAIL}}
           TO_EMAIL: ${{secrets.TO_EMAIL}}
