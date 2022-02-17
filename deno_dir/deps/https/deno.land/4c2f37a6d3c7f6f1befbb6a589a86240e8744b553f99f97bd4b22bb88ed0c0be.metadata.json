@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Thu, 17 Feb 2022 00:35:10 GMT",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "5356",
+    "date": "Thu, 17 Feb 2022 01:59:13 GMT",
+    "server": "deploy/us-central1-b",
+    "etag": "\"6b577c9cdd713a8881535de632535a0f\"",
+    "x-amz-request-id": "VCYQB454CXCGC8K6",
+    "x-amz-version-id": "bm8PBPe6wfWEKWqGmOouitH3CQnTyVEy",
+    "x-amz-id-2": "94P9reKPuQdd/K8gAQY5qAbPFwRfUsY3sP3GhRXBlLF8GizlzAIp76ZzU29YGSxqHZXLnQkuF1w="
+  },
+  "url": "https://deno.land/x/denoflow@0.0.30/core/run-step.ts",
+  "now": {
+    "secs_since_epoch": 1645063152,
+    "nanos_since_epoch": 499553625
+  }
+}
