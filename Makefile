@@ -1,10 +1,10 @@
 .Phony: run update local install github
 run:
-	ENV=dev DENO_DIR=./deno_dir deno run -A --unstable https://deno.land/x/denoflow/cli.ts run
+	ENV=dev DENO_DIR=./deno_dir deno run -A --unstable https://deno.land/x/denoflow@0.0.30/cli.ts run
 github:
-	DENO_DIR=./deno_dir deno run -A --unstable https://deno.land/x/denoflow/cli.ts run
+	DENO_DIR=./deno_dir deno run -A --unstable https://deno.land/x/denoflow@0.0.30/cli.ts run
 update:
-	DENO_DIR=./deno_dir deno cache --reload https://deno.land/x/denoflow/cli.ts
+	DENO_DIR=./deno_dir deno cache --reload https://deno.land/x/denoflow@0.0.30/cli.ts
 test:
 	deno test -A --unstable
 local:
